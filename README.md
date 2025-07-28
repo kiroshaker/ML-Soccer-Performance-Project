@@ -4,20 +4,6 @@ Built classification models to predict soccer player performance outcomes using 
 
 ---
 
-## 🚀 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results & Visuals](#results--visuals)
-- [Future Directions](#future-directions)
-- [About Me](#about-me)
-- [License](#license)
-
----
-
 ## Features
 
 - Builds **Logistic Regression, Decision Tree, and Random Forest** classifiers
