@@ -34,12 +34,7 @@ Built classification models to predict soccer player performance outcomes using 
 |-------------|------------------------|
 | Language    | Python                 |
 | Libraries   | pandas, scikit-learn, numpy, matplotlib, seaborn |
-| Notebooks   | Jupyter                |
 | Dataset     | Historical EPL player stats |
 | Modeling    | Logistic Regression, Decision Tree, Random Forest |
 | Visualization | seaborn & matplotlib |
-
----
-
-## Project Structure
 
